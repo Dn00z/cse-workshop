@@ -1,2 +1,3 @@
 # cse-workshop
-this is for only test purpose
+this is for test purposes only
+
