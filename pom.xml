@@ -32,7 +32,7 @@
     2 <repository>
     3 <id>github</id>
     4 <name>GitHub Packages</name>
-    5 <url>https://maven.pkg.github.com/<Dn00z>/<cse-workshop></url>
+    5 <url>https://maven.pkg.github.com/Dn00z/cse-workshop</url>
     6 </repository>
     7 </distributionManagement>
 
